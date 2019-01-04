@@ -4,3 +4,7 @@ remote_theme: rohanchandra/type-theme
 
 plugins:
   - jekyll-remote-theme
+
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://fabiand.github.io"
