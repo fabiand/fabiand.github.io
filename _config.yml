@@ -1,6 +1,6 @@
 #remote_theme: ozgrozer/dasper
 #remote_theme: niklasbuschmann/contrast
-remote_theme: jekyller/jasper
+remote_theme: diezcami/polar-bear-theme
 
 plugins:
   - jekyll-remote-theme
