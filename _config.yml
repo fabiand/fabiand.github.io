@@ -1,4 +1,4 @@
-remote_theme: bencentra/centrarium
+remote_theme: ozgrozer/dasper
 
 plugins:
   - jekyll-remote-theme
