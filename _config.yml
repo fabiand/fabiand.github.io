@@ -1,3 +1,4 @@
+---
 remote_theme: rohanchandra/type-theme
 
 plugins:
@@ -14,8 +15,8 @@ theme_settings:
   title: fabiand
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
-  description: "Dinge im Dunstkreis" # used by search engines
+  gravatar: ""  # Email MD5 hash
+  description: "Dinge im Dunstkreis"  # used by search engines
 
   # Header and footer text
   header_text: >
@@ -48,10 +49,10 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: ""  # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
-  search: false # Enable the search feature
+  katex: true  # Enable if using math markup
+  search: false  # Enable the search feature
 
   # Localization strings
   str_follow_on: "Follow on"
@@ -85,4 +86,4 @@ sass:
 theme: jekyll-theme-type
 exclude:
   - Gemfile
-- Gemfile.lock
+  - Gemfile.lock
