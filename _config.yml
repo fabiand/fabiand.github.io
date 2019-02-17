@@ -7,7 +7,7 @@ plugins:
 
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://fabiand.github.io"
+url: "https://fabiand.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
